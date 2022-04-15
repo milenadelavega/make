@@ -1,0 +1,25 @@
+.Fondo{
+    background-color: palevioletred;
+}
+.Marcas{
+    font-size: medium;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: white;
+
+}
+.principal{
+    margin-bottom: 2rem;
+}
+
+.imagenojos{
+    width: 10px;
+}
+p{
+    color: black;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.footer{
+    background-color: red;
+    color: black;
+    margin-top: 10%;
+}
