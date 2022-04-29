@@ -1,0 +1,5 @@
+ En el archivo index.html sumé el SEO con las siguientes características:
+Descripción: mediante la etiqueta meta name description, agregué el siguiente párrafo que explica en pocas palabras el contenido de mi sitio: “Este es el sitio web de mi emprendimiento de venta y conocimikento de Make Up, donde vas a encontrar paletas, brochas, labiales y mucho más"
+Palabras clave: mediante la etiqueta meta name keywords, agregué las palabras clave que acompañarán a todas las páginas de mi sitio: "Make Up, labial, Maybelline, MAC, Make Up rostro"
+Encabezado: para el encabezado del h1 utilicé el texto “Make Up Shine”
+
